@@ -28,8 +28,8 @@ Incluye **caché en memoria**, **historial de llamadas en PostgreSQL** y **despl
 1️⃣ **Clonar el repositorio**
 
 ```bash
-git clone <tu-repo-url>
-cd <tu-repo>
+git clone https://github.com/stevenlabajos97/demo-tekton-labs.git
+cd demo-tekton-labs
 ```
 
 2️⃣ **Levantar PostgreSQL y la API con Docker Compose**
