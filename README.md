@@ -10,7 +10,7 @@ Incluye **caché en memoria**, **historial de llamadas en PostgreSQL** y **despl
 - Java 21
 - Maven
 - Docker & Docker Compose
-- Postman o Swagger para pruebas
+- Postman para pruebas
 
 ---
 
